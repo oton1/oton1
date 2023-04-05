@@ -2,7 +2,7 @@
 ## Olá!
 
 
-Meu nome é Guilherme Otoni, tenho 25 anos e sou licenciado em História pela Universidade Federal de Ouro Preto, mas atualmente estudo e desenvolvo projetos voltados para o desenvolvimento web. Sou também pesquisador, tendo trabalhado nos últimos anos com o estudo dos usos do passado medieval no tempo presente, através da ciência de dados voltada para a análise de redes sociais e sites de compras, com o uso de NLP (Natural Language Processing).
+Meu nome é Guilherme Otoni, tenho 25 anos e sou licenciado em História pela Universidade Federal de Ouro Preto, mas atualmente estudo e desenvolvo projetos voltados para o desenvolvimento web. Sou também pesquisador, tendo trabalhado nos últimos anos com o estudo dos usos do passado medieval no tempo presente, através da ciência de dados voltada para a análise de redes sociais e sites de compras, com o uso de NLP (Natural Language Processing). 
 
 
 
@@ -11,7 +11,7 @@ Meu nome é Guilherme Otoni, tenho 25 anos e sou licenciado em História pela Un
 ## Linguagens, frameworks e ferramentas
 
 
-
+<br>
 <div align="center">
   <p float="left">
     <a href="https://www.python.org/"><img src="https://emoji.gg/assets/emoji/1887_python.png" width="40" alt="python"></a>
@@ -34,7 +34,7 @@ Meu nome é Guilherme Otoni, tenho 25 anos e sou licenciado em História pela Un
 ## Como me contatar
 
 
-
+<br>
 <div align="center">  <a href="https://www.linkedin.com/in/oton1guilherme/" target="_blank">  <img src="https://img.shields.io/badge/-oton1guilherme-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/oton1guilherme/" alt="Linkedin Badge">  </a>  <a href="mailto:oton1.guilh3rme@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/-oton1.guilh3rme-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:oton1.guilh3rme@gmail.com" alt="Gmail Badge">  </a>  </div>
 
 
