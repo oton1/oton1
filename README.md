@@ -25,8 +25,10 @@ Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal d
     <a href="https://www.mysql.com/"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"></a>
     <a href="https://www.mongodb.com/pt-br"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"></a>
     <a href="https://expressjs.com/pt-br/"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"></a>
+    <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="40"></a>
   </p>
 </div>
+
 
 
 
