@@ -2,7 +2,7 @@
 ## Olá!
 
 
-Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal de Ouro Preto, atuando como desenvolvedor ETL como emprego em tempo integral. Sou também pesquisador, tendo trabalhado nos últimos anos com o estudo dos usos do passado medieval no tempo presente, através da ciência de dados voltada para a análise de redes sociais e sites de compras, com o uso de NLP (Natural Language Processing). 
+Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal de Ouro Preto, atuando como engenheiro de dados/desenvolvedor ETL como emprego em tempo integral. Sou também pesquisador, tendo trabalhado nos últimos anos com o estudo dos usos do passado medieval no tempo presente, através da ciência de dados voltada para a análise de redes sociais e sites de compras, com o uso de NLP (Natural Language Processing). 
 
 
 
