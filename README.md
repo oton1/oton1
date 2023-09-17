@@ -20,12 +20,14 @@ Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal d
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"></a>
     <a href="https://www.javascript.com/"><img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
-    <a href="https://reactjs.org/"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"></a>
     <a href="https://nodejs.org/en/"><img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40"></a>
     <a href="https://www.mysql.com/"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"></a>
     <a href="https://www.mongodb.com/pt-br"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"></a>
-    <a href="https://expressjs.com/pt-br/"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"></a>
     <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="40"></a>
+    <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"></a>
+    <a href="https://airflow.apache.org/"><img alt="apache-airflow" src="https://airflow.apache.org/images/feature-image.png" width="40"></a>
+
+
   </p>
 </div>
 
