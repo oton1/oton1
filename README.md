@@ -1,8 +1,9 @@
 
+
 ## Olá!
 
 
-Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal de Ouro Preto, atuando como engenheiro de dados/desenvolvedor ETL como emprego em tempo integral. Sou também pesquisador, tendo trabalhado nos últimos anos com o estudo dos usos do passado medieval no tempo presente, através da ciência de dados voltada para a análise de redes sociais e sites de compras, com o uso de NLP (Natural Language Processing). 
+Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal de Ouro Preto, atuando como engenheiro de dados/desenvolvedor ETL como emprego em tempo integral. No passado  também atuei como pesquisador, tendo trabalhado com o estudo dos usos do passado medieval no tempo presente, através da ciência de dados voltada para a análise de redes sociais e sites de compras, com o uso de NLP (Natural Language Processing). 
 
 
 
@@ -21,10 +22,11 @@ Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal d
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"></a>
     <a href="https://www.javascript.com/"><img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
     <a href="https://nodejs.org/en/"><img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40"></a>
-    <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60"></a>
-    <a href="https://www.mongodb.com/pt-br"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"></a>
-    <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="40"></a>
-    <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"></a>
+    <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"></a>
+    <a href="https://www.mongodb.com/pt-br"><img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"></a>
+    <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="45"></a>
+    <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"></a>
+    <a href="https://airflow.apache.org/"><img alt="apache-airflow" src="https://airflow.apache.org/images/feature-image.png" width="100"></a>
 
 
   </p>
@@ -39,5 +41,4 @@ Meu nome é Guilherme, e sou licenciado em História pela Universidade Federal d
 
 <br>
 <div align="center">  <a href="https://www.linkedin.com/in/oton1guilherme/" target="_blank">  <img src="https://img.shields.io/badge/-oton1guilherme-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/oton1guilherme/" alt="Linkedin Badge">  </a>  <a href="mailto:oton1.guilh3rme@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/-oton1.guilh3rme-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:oton1.guilh3rme@gmail.com" alt="Gmail Badge">  </a>  </div>
-
 
