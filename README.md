@@ -4,7 +4,7 @@ def apresentacao():
         "name": "Guilherme Otoni",
         "location": "Belo Horizonte/MG",
         "occupation": "Data Engineer",
-        "stack": ["Python", "SQL", "Java", "JavaScript"]
+        "stack": ["Python", "SQL", "Java"]
     }
 
 info = apresentacao()
