@@ -1,12 +1,5 @@
-```python
-def apresentacao():
-    return {
-        "name": "Guilherme Otoni",
-        "location": "Belo Horizonte/MG",
-        "occupation": "Data Engineer",
-        "stack": ["Python", "SQL", "Java", "Javascript"]
-    }
-
-info = apresentacao()
-print(info)
-``` 
+software engineer
+data engineer
+dataops
+devops
+grande apreciador de batidas de limão
