@@ -1,5 +1,5 @@
-software engineer (back-end)<br>
-data engineer <br>
+data platform engineer <br>
+software engineer <br>
 dataops<br>
 devops<br>
 grande apreciador de batidas de limão<br>
